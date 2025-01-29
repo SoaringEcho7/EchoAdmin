@@ -64,3 +64,10 @@ python run.py
 ## License
 
 MIT License
+
+## SVG图标库使用
+
+访问 https://feathericons.com 或 https://heroicons.com
+搜索想要的图标（比如搜索 "user"）
+直接点击复制 SVG 代码
+粘贴到您的代码中
